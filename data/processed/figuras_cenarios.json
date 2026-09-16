@@ -1,0 +1,48 @@
+{
+  "traj_C1": [
+    "results/figures/trajetorias_C1.png",
+    "results/figures/trajetorias_C1.pdf"
+  ],
+  "hist_C1": [
+    "results/figures/hist_tamanho_final_C1.png",
+    "results/figures/hist_tamanho_final_C1.pdf"
+  ],
+  "dur": [
+    "results/figures/cdf_duracao_infecciosa_C1.png",
+    "results/figures/cdf_duracao_infecciosa_C1.pdf",
+    "results/figures/qq_duracao_infecciosa_C1.png",
+    "results/figures/qq_duracao_infecciosa_C1.pdf"
+  ],
+  "off": [
+    "results/figures/pmf_offspring_C1.png",
+    "results/figures/pmf_offspring_C1.pdf"
+  ],
+  "conv": [
+    "results/figures/convergencia_tamanho_final_C1.png",
+    "results/figures/convergencia_tamanho_final_C1.pdf"
+  ],
+  "traj_C2": [
+    "results/figures/trajetorias_C2.png",
+    "results/figures/trajetorias_C2.pdf"
+  ],
+  "hist_C2": [
+    "results/figures/hist_tamanho_final_C2.png",
+    "results/figures/hist_tamanho_final_C2.pdf"
+  ],
+  "traj_C3": [
+    "results/figures/trajetorias_C3.png",
+    "results/figures/trajetorias_C3.pdf"
+  ],
+  "hist_C3": [
+    "results/figures/hist_tamanho_final_C3.png",
+    "results/figures/hist_tamanho_final_C3.pdf"
+  ],
+  "box_u": [
+    "results/figures/boxplots_incondicional.png",
+    "results/figures/boxplots_incondicional.pdf"
+  ],
+  "box_c": [
+    "results/figures/boxplots_condicional_surto_maior.png",
+    "results/figures/boxplots_condicional_surto_maior.pdf"
+  ]
+}

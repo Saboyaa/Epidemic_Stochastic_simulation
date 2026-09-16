@@ -1,0 +1,13 @@
+{
+  "tvd": 0.003035028409399001,
+  "chi2": 7.536672131306586,
+  "gl": 9,
+  "p": 0.5814252533597692,
+  "media_sim": 5.40428,
+  "media_exata": 5.409794215979407,
+  "figuras": [
+    "results/figures/V1_pmf_tamanho_final.png",
+    "results/figures/V1_pmf_tamanho_final.pdf"
+  ],
+  "tempo_s": 2.3336931069989078
+}

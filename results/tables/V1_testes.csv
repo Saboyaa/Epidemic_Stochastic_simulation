@@ -1,0 +1,3 @@
+teste,comparacao,n,estatistica,gl,p_valor,n_celulas
+qui-quadrado,PMF simulada × CTMC exata (tamanho final),100000,7.536672131306586,9.0,0.5814252533597692,10
+distância de variação total,PMF simulada × CTMC exata,100000,0.003035028409399001,,,10

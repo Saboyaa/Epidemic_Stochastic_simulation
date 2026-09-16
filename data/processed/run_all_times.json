@@ -1,0 +1,12 @@
+{
+  "tempos_por_etapa_s": {
+    "pytest": 0.7557614379984443,
+    "exp_pilot.py": 0.8774821530005283,
+    "exp_scenarios.py": 149.98222261699993,
+    "exp_sweep.py": 9.524072849999357,
+    "exp_v1_exact.py": 4.77081544199973,
+    "exp_v2_meanfield.py": 3.1559712329999456,
+    "write_results.py": 0.41761523300010595
+  },
+  "total_s": 169.48431776699908
+}

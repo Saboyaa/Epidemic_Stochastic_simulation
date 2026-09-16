@@ -1,0 +1,4 @@
+cenario,descricao,N,I0,S0,vacinados,p,R0,gamma,beta,R_eff,limiar_vacinal,n_replicacoes,P_surto_maior_teorica,tamanho_final_teorico
+C1,C1 (base),1000,1,999,0,0.0,2.5,0.2,0.5,2.5,0.6,1000,0.6,0.8914244114136323
+C2,C2 (vacinação parcial),1000,1,599,400,0.4,2.5,0.2,0.5,1.5,0.6,1000,0.33333333333333337,0.3481288416529094
+C3,C3 (vacinação acima do limiar),1000,1,299,700,0.7,2.5,0.2,0.5,0.7500000000000001,0.6,48622,0.0,0.0

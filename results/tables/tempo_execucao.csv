@@ -1,0 +1,15 @@
+experimento,n_replicacoes,tempo_simulacao_s,pasta
+C1,1000,0.2381001470002957,data/raw/C1
+C1_offspring_extra_b0,100000,21.55394819399953,data/raw/C1_offspring_extra/batch0
+C1_offspring_extra_b1,100000,20.659149691000493,data/raw/C1_offspring_extra/batch1
+C1_offspring_extra_b2,100000,25.515299709999454,data/raw/C1_offspring_extra/batch2
+C1_offspring_extra_b3,100000,31.699184969998896,data/raw/C1_offspring_extra/batch3
+C1_offspring_extra_b4,100000,34.79425299700051,data/raw/C1_offspring_extra/batch4
+C2,1000,0.1387914719998662,data/raw/C2
+C3,48622,1.0722143549992325,data/raw/C3
+V1,100000,2.3336931069989078,data/raw/V1
+V2,200,1.4412555920007435,data/raw/V2
+pilot_C1,200,0.06101986700014095,data/raw/pilot_C1
+pilot_C2,200,0.037130009000975406,data/raw/pilot_C2
+pilot_C3,200,0.03586759599966172,data/raw/pilot_C3
+sweep,7500,2.374005385003329,data/raw/sweep

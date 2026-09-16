@@ -1,0 +1,30 @@
+{
+  "experimento": "sweep_R0_3.50",
+  "parametros": {
+    "N": 1000,
+    "I0": 1,
+    "R0": 3.5,
+    "gamma": 0.2,
+    "beta": 0.7000000000000001,
+    "p": 0.0,
+    "n_vacc": 0,
+    "S0": 999,
+    "R_eff": 3.5
+  },
+  "n_replicacoes": 500,
+  "seed_mestre": 20260916,
+  "exp_spawn_key": 10012,
+  "derivacao_seeds": "SeedSequence(seed_mestre, spawn_key=(exp_spawn_key,)).spawn(n_replicacoes)[rep]",
+  "n_trajetorias_salvas": 0,
+  "workers": 11,
+  "tempo_execucao_s": 0.2908578269998543,
+  "versoes": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.2",
+    "epidemic": "1.0.0",
+    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35"
+  }
+}

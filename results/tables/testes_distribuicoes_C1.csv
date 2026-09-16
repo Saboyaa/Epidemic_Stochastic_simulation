@@ -1,0 +1,16 @@
+teste,distribuicao,cenario,n,estatistica,gl,p_valor,media_emp,media_teo
+KS,duração infecciosa ~ Exp(γ),C1,542637,0.0010593710475352847,,0.576003887943652,4.9936544953336695,5.0
+qui-quadrado,offspring do caso índice ~ Geom(β/(β+γ)),C1,1000,26.68081805811412,14.0,0.021176868514590202,2.517,2.5
+qui-quadrado (suplementar),offspring do caso índice ~ CTMC exata c/ depleção (N=1000),C1,1000,19.973031731940743,13.0,0.09588474736771632,2.517,2.4195256818682074
+"qui-quadrado (extra, lote 0)",offspring do caso índice ~ Geom (sem depleção),C1_extra,100000,424.54097547619483,21.0,7.638337153901649e-77,2.43436,2.5
+"qui-quadrado (extra, lote 0, c/ depleção)",offspring do caso índice ~ CTMC exata c/ depleção,C1_extra,100000,25.83294663510889,20.0,0.17140030515295482,2.43436,2.4195256818682074
+"qui-quadrado (extra, lote 1)",offspring do caso índice ~ Geom (sem depleção),C1_extra,100000,402.5039715479028,23.0,5.423332021053734e-71,2.41302,2.5
+"qui-quadrado (extra, lote 1, c/ depleção)",offspring do caso índice ~ CTMC exata c/ depleção,C1_extra,100000,24.013098243785013,20.0,0.24182047009036103,2.41302,2.4195256818682074
+"qui-quadrado (extra, lote 2)",offspring do caso índice ~ Geom (sem depleção),C1_extra,100000,373.52920365428855,25.0,7.948176696568544e-64,2.4247,2.5
+"qui-quadrado (extra, lote 2, c/ depleção)",offspring do caso índice ~ CTMC exata c/ depleção,C1_extra,100000,9.666226991151772,20.0,0.9738282651959844,2.4247,2.4195256818682074
+"qui-quadrado (extra, lote 3)",offspring do caso índice ~ Geom (sem depleção),C1_extra,100000,392.6641949493864,21.0,3.051807894134238e-70,2.42478,2.5
+"qui-quadrado (extra, lote 3, c/ depleção)",offspring do caso índice ~ CTMC exata c/ depleção,C1_extra,100000,10.654878699700202,20.0,0.9546862838139295,2.42478,2.4195256818682074
+"qui-quadrado (extra, lote 4)",offspring do caso índice ~ Geom (sem depleção),C1_extra,100000,388.98486602764655,20.0,3.9249588632822845e-70,2.4156,2.5
+"qui-quadrado (extra, lote 4, c/ depleção)",offspring do caso índice ~ CTMC exata c/ depleção,C1_extra,100000,15.793181784748047,20.0,0.7293691678662166,2.4156,2.4195256818682074
+"qui-quadrado (extra, agrupado)",offspring do caso índice ~ Geom (sem depleção),C1_extra,500000,1923.9305827734054,25.0,0.0,2.422492,2.5
+"qui-quadrado (extra, agrupado, c/ depleção)",offspring do caso índice ~ CTMC exata c/ depleção,C1_extra,500000,11.062398473822686,22.0,0.9738473451197494,2.422492,2.4195256818682074

@@ -1,0 +1,38 @@
+{
+  "C1": {
+    "limiar": 425.0,
+    "vale_encontrado": true,
+    "moda_maior": 895.0,
+    "contagem_no_vale": 0,
+    "largura_bin": 10,
+    "maior_surto_menor": 11,
+    "menor_surto_maior": 835,
+    "n_maior": 608,
+    "n_menor": 392,
+    "n_acima_limiar": 608
+  },
+  "C2": {
+    "limiar": 135.0,
+    "vale_encontrado": true,
+    "moda_maior": 355.0,
+    "contagem_no_vale": 0,
+    "largura_bin": 10,
+    "maior_surto_menor": 96,
+    "menor_surto_maior": 171,
+    "n_maior": 312,
+    "n_menor": 688,
+    "n_acima_limiar": 312
+  },
+  "C3": {
+    "limiar": 100.0,
+    "vale_encontrado": true,
+    "moda_maior": 105.0,
+    "contagem_no_vale": 3,
+    "largura_bin": 10,
+    "maior_surto_menor": 108,
+    "menor_surto_maior": null,
+    "n_maior": 0,
+    "n_menor": 48622,
+    "n_acima_limiar": 3
+  }
+}

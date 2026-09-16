@@ -1,0 +1,15 @@
+{
+  "rmse": 0.002225852246161644,
+  "peak_mean_traj": 0.2272415,
+  "t_peak_mean_traj": 24.6,
+  "peak_ode": 0.23387993634426346,
+  "t_peak_ode": 24.400000000000002,
+  "mean_of_peaks": 0.237357,
+  "mean_of_tpeaks": 24.554706509287225,
+  "n_major": 200,
+  "figuras": [
+    "results/figures/V2_campo_medio.png",
+    "results/figures/V2_campo_medio.pdf"
+  ],
+  "tempo_s": 1.4412555920007435
+}
